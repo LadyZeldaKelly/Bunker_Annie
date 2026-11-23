@@ -2,6 +2,8 @@
 # One-time setup for a fresh machine/session: Remotion deps, whisperX (Python 3.12) and NLTK data.
 set -euo pipefail
 cd "$(dirname "$0")"
+# In Claude cloud sessions, outbound HTTPS goes through a proxy with its own CA bundle.
+if [ -f /root/.ccr/ca-bundle.crt ]; then export SSL_CERT_FILE=/root/.ccr/ca-bundle.crt REQUESTS_CA_BUNDLE=/root/.ccr/ca-bundle.crt; fi
 command -v ffmpeg >/dev/null || (apt-get update && apt-get install -y ffmpeg)
 npm install
 if [ ! -x .venv-whisperx/bin/whisperx ]; then
