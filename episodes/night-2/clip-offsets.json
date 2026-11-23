@@ -1,0 +1,127 @@
+[
+ {
+  "clip": "01-s1a-narr",
+  "start": 1.5,
+  "end": 34.3
+ },
+ {
+  "clip": "02-s1-inmateA",
+  "start": 34.65,
+  "end": 39.21
+ },
+ {
+  "clip": "03-s1b-narr",
+  "start": 39.56,
+  "end": 57.16
+ },
+ {
+  "clip": "04-s1-inmateB",
+  "start": 57.51,
+  "end": 59.59
+ },
+ {
+  "clip": "05-s1c-narr",
+  "start": 59.94,
+  "end": 81.38
+ },
+ {
+  "clip": "06-s1-inmateC",
+  "start": 81.73,
+  "end": 84.45
+ },
+ {
+  "clip": "07-s1d-narr",
+  "start": 84.8,
+  "end": 92.72
+ },
+ {
+  "clip": "08-s2a-narr",
+  "start": 94.12,
+  "end": 118.84
+ },
+ {
+  "clip": "09-s2-denise1",
+  "start": 119.19,
+  "end": 123.19
+ },
+ {
+  "clip": "10-s2b-narr",
+  "start": 123.54,
+  "end": 149.54
+ },
+ {
+  "clip": "11-s2-denise2",
+  "start": 149.89,
+  "end": 151.65
+ },
+ {
+  "clip": "12-s2c-narr",
+  "start": 152.0,
+  "end": 165.44
+ },
+ {
+  "clip": "13-s2-inmateD",
+  "start": 165.79,
+  "end": 167.79
+ },
+ {
+  "clip": "14-s2d-narr",
+  "start": 168.14,
+  "end": 177.26
+ },
+ {
+  "clip": "15-s3-narr",
+  "start": 178.66,
+  "end": 243.22
+ },
+ {
+  "clip": "16-s4a-narr",
+  "start": 244.62,
+  "end": 261.34
+ },
+ {
+  "clip": "17-s4-denise3",
+  "start": 261.69,
+  "end": 264.01
+ },
+ {
+  "clip": "18-s4b-narr",
+  "start": 264.36,
+  "end": 268.68
+ },
+ {
+  "clip": "19-s4-denise4",
+  "start": 269.03,
+  "end": 272.23
+ },
+ {
+  "clip": "20-s4c-narr",
+  "start": 272.58,
+  "end": 307.94
+ },
+ {
+  "clip": "21-s5a-narr",
+  "start": 309.34,
+  "end": 322.7
+ },
+ {
+  "clip": "22-s5-door1",
+  "start": 323.05,
+  "end": 324.23
+ },
+ {
+  "clip": "23-s5b-narr",
+  "start": 324.58,
+  "end": 328.1
+ },
+ {
+  "clip": "24-s5-door2",
+  "start": 328.45,
+  "end": 331.39
+ },
+ {
+  "clip": "25-s5c-narr",
+  "start": 331.74,
+  "end": 365.58
+ }
+]
