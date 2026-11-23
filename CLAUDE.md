@@ -46,3 +46,8 @@
 5. Images → public/<ep>/img/sNN.png; contact sheet check.
 6. Generate src/episodes/<Ep>.tsx (one <Scene> per shot + Voiceover track), register in Root.tsx, check stills, render to out/.
 - ElevenLabs MCP here can't upload local files; reference images only via public URLs.
+
+## Thumbnails
+- Template: src/story/Thumbnail.tsx (Anton font, white label + red number, coloured hook line, dark fade behind text). One <Still> per option in Root.tsx (Folder "Thumbnails"); render with `npx remotion still <id> out/thumbnails/<name>.png`.
+- Best results: a NEW bright, close-up thumbnail image (big scared character, clear threat, leave a corner empty for text). Reused dark episode shots need brightness ~1.5 and still read weaker.
+- Keep text off faces; use hookAtBottom when the top-left is busy.
