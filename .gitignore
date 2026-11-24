@@ -12,3 +12,6 @@ out/
 # Large intermediate audio (the final voiceover.mp3 lives in public/<episode>/)
 episodes/*/work/
 episodes/*/voiceover.wav
+
+# Separate project (its own GitHub repository)
+the-still-case/
