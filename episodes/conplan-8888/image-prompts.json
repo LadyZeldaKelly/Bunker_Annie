@@ -1,0 +1,320 @@
+[
+ {
+  "sid": "s02",
+  "key": "c02_dashboard",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Night, inside a moving car on an empty American interstate, point of view from the driver's seat: a smartphone on the passenger seat lights the dark cabin with a harsh white emergency alert glow, hands in dark green canvas jacket sleeves on the steering wheel, headlights of oncoming trucks streaking past in the rain-speckled windshield. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s03",
+  "key": "c03_mirror",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Night, close view of a car's rear-view mirror reflecting a long line of headlights on the interstate behind, dashboard glow, tense atmosphere. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s04",
+  "key": "c04_medwing",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Night, a military hospital corridor under flickering fluorescent light: two soldiers rush a gurney with a blood-stained blanket through swinging doors, a female nurse in navy scrubs with a dark hair bun seen from behind, face not visible, holding the door. Realistic, restrained, no gore visible. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s05",
+  "key": "c05_doors",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Night, heavy steel security doors of a military medical wing closing, a soldier dropping confiscated smartphones into a plastic bin, red emergency light, cold institutional mood. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s07",
+  "key": "c07_hilltop",
+  "ref": "base",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference image only for the look of the military base, fence, floodlights and colour grade; new camera angle and composition. Night, view from a dark hilltop road down onto a military air station: floodlit perimeter fence, guard towers, runway lights, fog, a long river of car headlights snaking toward the north gate. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s09",
+  "key": "c09_gate",
+  "ref": "base",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference image only for the look of the military base, fence, floodlights and colour grade; new camera angle and composition. Night, ground-level view at the closed north gate of the military base: concrete barriers, a rolling steel gate, coiled razor wire, a guard tower with a loudspeaker horn under blazing sodium floodlights, fog, crowd silhouettes in front. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s14",
+  "key": "c14_window",
+  "ref": "base",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference image only for the look of the military base, fence, floodlights and colour grade; new camera angle and composition. Night, a single lit second-floor window of a medical building seen through the chain-link fence and razor wire of a military base, a female silhouette in the window, fog in the floodlights. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s16",
+  "key": "c16_fencehands",
+  "ref": "base",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference image only for the look of the military base, fence, floodlights and colour grade; new camera angle and composition. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Night, close view of many hands of different people gripping a chain-link fence topped with razor wire, floodlight glare and fog beyond, faces out of frame. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s17",
+  "key": "c17_horns",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Night, rows of stopped cars on a road in front of a military gate, red tail lights glowing through fog, people leaning on horns, headlights flaring, chaotic but realistic. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s19",
+  "key": "c19_onramp",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Night, an interstate on-ramp seen from a distance: dozens of dark human figures with stiff, wrong postures walking slowly up the ramp toward distant headlights and floodlight glow, fog, backlit silhouettes, no gore. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s20",
+  "key": "c20_edge",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Night, the edge of the floodlit crowd of cars: a lone figure seen from behind at the boundary between orange light and a black empty wheat field. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s21",
+  "key": "c21_elevator",
+  "ref": "tower",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference image only for the look of the weathered concrete grain elevator, its rusty ladder and the flat wheat plains; new camera angle and composition. Night, an old concrete grain elevator standing alone on the flat plains a mile away, black against a deep blue night sky with stars, faint orange glow of the base on the horizon. Flat empty wheat plains to the horizon, no city, no town, no other buildings. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s22",
+  "key": "c22_eli_cars",
+  "ref": "eli",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference sheet only for Eli's appearance; new scene and camera angle. The boy is ELI from the reference sheet, exactly the same face, dark brown curly hair, light brown skin, faded muted brick-red pullover hoodie with uneven white drawstrings, dark blue worn jeans, muddy grey-and-white sneakers, olive green one-strap backpack. Night, Eli stands alone between stopped cars lit by red tail lights and floodlight haze, calling out, frightened, looking around for his father. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s23",
+  "key": "c23_eli_close",
+  "ref": "eli",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference sheet only for Eli's appearance; new scene and camera angle. The boy is ELI from the reference sheet, exactly the same face, dark brown curly hair, light brown skin, faded muted brick-red pullover hoodie with uneven white drawstrings, dark blue worn jeans, muddy grey-and-white sneakers, olive green one-strap backpack. Night, medium close-up of Eli's face lit by red tail lights, tears on his cheeks, the floodlit military fence out of focus behind him. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s24",
+  "key": "c24_hands",
+  "ref": "eli",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference sheet only for Eli's appearance; new scene and camera angle. The boy is ELI from the reference sheet, exactly the same face, dark brown curly hair, light brown skin, faded muted brick-red pullover hoodie with uneven white drawstrings, dark blue worn jeans, muddy grey-and-white sneakers, olive green one-strap backpack. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Night, close-up of an adult hand in a dark green canvas jacket sleeve taking a small boy's hand that comes out of a faded brick-red hoodie sleeve, tail-light glow. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s25",
+  "key": "c25_two_walk",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Night, two small silhouettes, an adult and a child in a red hoodie, walking away across a dark wheat field toward a distant grain elevator, the military base glowing orange behind them. Flat empty wheat plains to the horizon, no city, no town, no other buildings. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s26",
+  "key": "c26_ladder_weeds",
+  "ref": "tower",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference image only for the look of the weathered concrete grain elevator, its rusty ladder and the flat wheat plains; new camera angle and composition. Night, a flashlight beam finds an aluminum extension ladder lying in tall weeds at the foot of a concrete grain elevator, the rusty fixed ladder starting high above. Flat empty wheat plains to the horizon, no city, no town, no other buildings. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s27",
+  "key": "c27_climb",
+  "ref": "eli",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference sheet only for Eli's appearance; new scene and camera angle. The boy is ELI from the reference sheet, exactly the same face, dark brown curly hair, light brown skin, faded muted brick-red pullover hoodie with uneven white drawstrings, dark blue worn jeans, muddy grey-and-white sneakers, olive green one-strap backpack. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Night, an aluminum extension ladder leaning against a concrete grain elevator reaching the lowest rung of a rusty fixed ladder twelve feet up; Eli climbing it while an adult in a dark green jacket steadies the ladder from below, flashlight on the ground. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s28",
+  "key": "c28_drop",
+  "ref": "tower",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference image only for the look of the weathered concrete grain elevator, its rusty ladder and the flat wheat plains; new camera angle and composition. Night, looking straight down from a narrow steel landing on a grain elevator: twelve feet of smooth weathered concrete to the weeds below, an aluminum ladder laid flat along the rail beside the camera. Flat empty wheat plains to the horizon, no city, no town, no other buildings. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s29",
+  "key": "c29_inventory",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Dawn, top-down close view on a rusty steel grating walkway: one half-empty plastic water bottle, a granola bar, a pocketknife, a smartphone showing low battery, a hand in a dark green jacket sleeve. Flat empty wheat plains to the horizon, no city, no town, no other buildings. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s30",
+  "key": "c30_dawn_base",
+  "ref": "base",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference image only for the look of the military base, fence, floodlights and colour grade; new camera angle and composition. Dawn, view from the top of a grain elevator across flat wheat plains to the military base a mile away: neat buildings, a flag, floodlights fading, peaceful pink sky. Flat empty wheat plains to the horizon, no city, no town, no other buildings. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s31",
+  "key": "c31_field",
+  "ref": "base",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference image only for the look of the military base, fence, floodlights and colour grade; new camera angle and composition. Dawn, high view down onto the base perimeter fence: hundreds of motionless human figures gathered along the fence line, standing in the wheat, mist. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s32",
+  "key": "c32_bottle",
+  "ref": "eli",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference sheet only for Eli's appearance; new scene and camera angle. The boy is ELI from the reference sheet, exactly the same face, dark brown curly hair, light brown skin, faded muted brick-red pullover hoodie with uneven white drawstrings, dark blue worn jeans, muddy grey-and-white sneakers, olive green one-strap backpack. Morning on a grain elevator walkway: Eli sits holding a nearly empty plastic water bottle up to the light, looking at it, worried. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s34",
+  "key": "c34_rain",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Day, heavy rain sweeping across endless flat wheat plains under a dark steel-grey sky, an old grain elevator standing alone in the storm. Flat empty wheat plains to the horizon, no city, no town, no other buildings. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s35",
+  "key": "c35_jacket",
+  "ref": "eli",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference sheet only for Eli's appearance; new scene and camera angle. The boy is ELI from the reference sheet, exactly the same face, dark brown curly hair, light brown skin, faded muted brick-red pullover hoodie with uneven white drawstrings, dark blue worn jeans, muddy grey-and-white sneakers, olive green one-strap backpack. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Rain on a grain elevator walkway: a dark green canvas jacket stretched across the railing as a funnel channelling rainwater into a plastic bottle, Eli beside it laughing with rain on his face. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s36",
+  "key": "c36_farmhouse",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Noon, a lonely white farmhouse half a mile away across pale wheat fields, curtains drawn, a windmill, flat horizon, hard sun. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s38",
+  "key": "c38_climbdown",
+  "ref": "tower",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference image only for the look of the weathered concrete grain elevator, its rusty ladder and the flat wheat plains; new camera angle and composition. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Noon, an adult in a dark green jacket and grey beanie climbing down an aluminum ladder leaning against the concrete grain elevator, seen from below against a bleached white sky. Flat empty wheat plains to the horizon, no city, no town, no other buildings. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s39",
+  "key": "c39_eli_guard",
+  "ref": "eli",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference sheet only for Eli's appearance; new scene and camera angle. The boy is ELI from the reference sheet, exactly the same face, dark brown curly hair, light brown skin, faded muted brick-red pullover hoodie with uneven white drawstrings, dark blue worn jeans, muddy grey-and-white sneakers, olive green one-strap backpack. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Noon, Eli kneeling on the high steel landing of the grain elevator, both hands gripping the top of the aluminum ladder, serious, watching the field. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s40",
+  "key": "c40_haul",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Inside an abandoned farmhouse kitchen in dusty noon light: on the table a folded blue tarp, two white five-gallon buckets, canned food, a first-aid kit, a hand-crank emergency radio and a jug of plain bleach. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s42",
+  "key": "c42_eli_ladder",
+  "ref": "eli",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference sheet only for Eli's appearance; new scene and camera angle. The boy is ELI from the reference sheet, exactly the same face, dark brown curly hair, light brown skin, faded muted brick-red pullover hoodie with uneven white drawstrings, dark blue worn jeans, muddy grey-and-white sneakers, olive green one-strap backpack. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Noon, Eli on the grain elevator landing with both hands on the aluminum ladder ready to push it away, relief on his face, looking down toward the camera. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s43",
+  "key": "c43_bleach",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Night, close view on a grain elevator walkway: a blue tarp rigged as a funnel over a white bucket of rainwater, a hand counting drops of bleach from a jug cap into a bottle, flashlight light. Flat empty wheat plains to the horizon, no city, no town, no other buildings. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s44",
+  "key": "c44_pickup",
+  "ref": "tower",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference image only for the look of the weathered concrete grain elevator, its rusty ladder and the flat wheat plains; new camera angle and composition. Night, a pickup truck with headlights on rolling slowly across the wheat toward the foot of the concrete grain elevator, three men standing in the truck bed, dust in the headlight beams. Flat empty wheat plains to the horizon, no city, no town, no other buildings. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s45",
+  "key": "c45_haul_up",
+  "ref": "tower",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference image only for the look of the weathered concrete grain elevator, its rusty ladder and the flat wheat plains; new camera angle and composition. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Night, looking down from the grain elevator landing: hands hauling up an aluminum ladder as a man's hand below reaches and grabs at empty air, flashlight beam from below. Flat empty wheat plains to the horizon, no city, no town, no other buildings. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s46",
+  "key": "c46_flashlight",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Night, a flashlight beam sweeping across the curved weathered concrete wall of a grain elevator, figures shouting below in the dark. Flat empty wheat plains to the horizon, no city, no town, no other buildings. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s47",
+  "key": "c47_taillights",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Night, red tail lights of a pickup truck speeding away across the field, dark figures emerging from the wheat into the dust it leaves behind. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s48",
+  "key": "c48_signal",
+  "ref": "base",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference image only for the look of the military base, fence, floodlights and colour grade; new camera angle and composition. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Night, over-the-shoulder from the grain elevator top: a hand holding a smartphone flashlight pointed toward the distant floodlit military base. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s49",
+  "key": "c49_window_flash",
+  "ref": "base",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference image only for the look of the military base, fence, floodlights and colour grade; new camera angle and composition. Night, telephoto view of the military base medical building, one second-floor window glowing, the rest dark, fog in the floodlights. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s50",
+  "key": "c50_eli_sleep",
+  "ref": "eli",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference sheet only for Eli's appearance; new scene and camera angle. The boy is ELI from the reference sheet, exactly the same face, dark brown curly hair, light brown skin, faded muted brick-red pullover hoodie with uneven white drawstrings, dark blue worn jeans, muddy grey-and-white sneakers, olive green one-strap backpack. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Night, Eli asleep under a dark green canvas jacket on the grain elevator walkway, the distant base lights reflected in a puddle beside him. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s51",
+  "key": "c51_empty",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Day, two empty white buckets and a dry cracked blue tarp on a rusty grating, harsh sun, heat. Flat empty wheat plains to the horizon, no city, no town, no other buildings. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s53",
+  "key": "c53_creek",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Noon, a narrow muddy creek behind a farmhouse, tall reeds on both banks, still brown water, unnerving quiet. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s54",
+  "key": "c54_creek_slip",
+  "ref": "eli",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference sheet only for Eli's appearance; new scene and camera angle. The boy is ELI from the reference sheet, exactly the same face, dark brown curly hair, light brown skin, faded muted brick-red pullover hoodie with uneven white drawstrings, dark blue worn jeans, muddy grey-and-white sneakers, olive green one-strap backpack. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Noon at a muddy creek bank with tall reeds: Eli slipping in the mud beside two white buckets, an adult in a dark green jacket reaching for him, the reeds behind them. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s55",
+  "key": "c55_run",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Noon, an adult and a child in a red hoodie running through tall pale wheat toward the concrete grain elevator, seen from behind, motion blur. Flat empty wheat plains to the horizon, no city, no town, no other buildings. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s56",
+  "key": "c56_scratch",
+  "ref": "eli",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference sheet only for Eli's appearance; new scene and camera angle. The boy is ELI from the reference sheet, exactly the same face, dark brown curly hair, light brown skin, faded muted brick-red pullover hoodie with uneven white drawstrings, dark blue worn jeans, muddy grey-and-white sneakers, olive green one-strap backpack. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Close-up of Eli's forearm with the red hoodie sleeve pushed up, a long thin red scratch on the skin, his other hand nervously pulling the sleeve down, late light. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s57",
+  "key": "c57_filter",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Night, close view of hands pouring cloudy brown creek water through a stretched T-shirt into a white bucket, flashlight light. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s59",
+  "key": "c59_fever",
+  "ref": "eli",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference sheet only for Eli's appearance; new scene and camera angle. The boy is ELI from the reference sheet, exactly the same face, dark brown curly hair, light brown skin, faded muted brick-red pullover hoodie with uneven white drawstrings, dark blue worn jeans, muddy grey-and-white sneakers, olive green one-strap backpack. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Evening on the grain elevator walkway: Eli wrapped in the dark green jacket, flushed and sweaty, tired eyes, still talking. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s60",
+  "key": "c60_shoulder",
+  "ref": "eli",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference sheet only for Eli's appearance; new scene and camera angle. The boy is ELI from the reference sheet, exactly the same face, dark brown curly hair, light brown skin, faded muted brick-red pullover hoodie with uneven white drawstrings, dark blue worn jeans, muddy grey-and-white sneakers, olive green one-strap backpack. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Night, Eli asleep leaning on an adult's shoulder in a dark green jacket, the red hoodie sleeve pulled down over his arm, distant base glow. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s62",
+  "key": "c62_tally",
+  "ref": "tower",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference image only for the look of the weathered concrete grain elevator, its rusty ladder and the flat wheat plains; new camera angle and composition. Close view of chalk tally marks scratched on the weathered concrete of the grain elevator, thirty-five marks, rain streaking the wall. Flat empty wheat plains to the horizon, no city, no town, no other buildings. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s64",
+  "key": "c64_tower_night",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Night, wide shot of a lone grain elevator on the endless dark plains, two tiny figures on top, the floodlit base far away. Flat empty wheat plains to the horizon, no city, no town, no other buildings. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s65",
+  "key": "c65_forehead",
+  "ref": "eli",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference sheet only for Eli's appearance; new scene and camera angle. The boy is ELI from the reference sheet, exactly the same face, dark brown curly hair, light brown skin, faded muted brick-red pullover hoodie with uneven white drawstrings, dark blue worn jeans, muddy grey-and-white sneakers, olive green one-strap backpack. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Before dawn: an adult's hand on Eli's forehead; Eli feverish and soaked with sweat; his red sleeve eased back showing a swollen, angry red scratch. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s67",
+  "key": "c67_radio",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Dawn, a small hand-crank emergency radio on the steel grating, its dial glowing amber, pink sky behind. Flat empty wheat plains to the horizon, no city, no town, no other buildings. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s69",
+  "key": "c69_eli_whisper",
+  "ref": "eli",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference sheet only for Eli's appearance; new scene and camera angle. The boy is ELI from the reference sheet, exactly the same face, dark brown curly hair, light brown skin, faded muted brick-red pullover hoodie with uneven white drawstrings, dark blue worn jeans, muddy grey-and-white sneakers, olive green one-strap backpack. Dawn, close shot of feverish Eli lying under the jacket, looking down at his sleeve, then up at the camera, about to whisper, frightened. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s70",
+  "key": "c70_thumb",
+  "ref": "none",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. The adult narrator character is seen only from behind or as hands: dark green canvas jacket, grey knit beanie, wristwatch, face never shown. Dawn, extreme close-up of a thumb resting on the talk button of a hand-crank radio, knuckles tense. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ },
+ {
+  "sid": "s71",
+  "key": "c71_ladder_foot",
+  "ref": "tower",
+  "prompt": "Wide 16:9 photorealistic cinematic film still, realistic human proportions, detailed real-world environment, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows, practical light sources, subtle film grain. Use the reference image only for the look of the weathered concrete grain elevator, its rusty ladder and the flat wheat plains; new camera angle and composition. Pre-dawn, low angle at the foot of the concrete grain elevator: the top of a wooden ladder knocking against the concrete wall, darkness below, something about to climb. Flat empty wheat plains to the horizon, no city, no town, no other buildings. Not cartoon, not illustration, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+ }
+]

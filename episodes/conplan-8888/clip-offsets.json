@@ -1,0 +1,92 @@
+[
+ {
+  "clip": "01-coldopen",
+  "kind": "narr",
+  "start": 3.0,
+  "dur": 55.12
+ },
+ {
+  "clip": "L1-loudspeaker",
+  "kind": "pa",
+  "start": 59.02,
+  "dur": 2.52
+ },
+ {
+  "clip": "02-realplan",
+  "kind": "narr",
+  "start": 63.14,
+  "dur": 43.36
+ },
+ {
+  "clip": "03-fence-climb",
+  "kind": "narr",
+  "start": 107.9,
+  "dur": 77.36
+ },
+ {
+  "clip": "04-day1-day3",
+  "kind": "narr",
+  "start": 186.66,
+  "dur": 50.24
+ },
+ {
+  "clip": "05-day6",
+  "kind": "narr",
+  "start": 238.3,
+  "dur": 72.32
+ },
+ {
+  "clip": "06-day12-day18",
+  "kind": "narr",
+  "start": 312.02,
+  "dur": 50.4
+ },
+ {
+  "clip": "07-day24",
+  "kind": "narr",
+  "start": 363.82,
+  "dur": 52.72
+ },
+ {
+  "clip": "08-day27",
+  "kind": "narr",
+  "start": 417.94,
+  "dur": 47.36
+ },
+ {
+  "clip": "09-day40a",
+  "kind": "narr",
+  "start": 466.7,
+  "dur": 37.2
+ },
+ {
+  "clip": "J1-jo",
+  "kind": "radio",
+  "start": 504.9,
+  "dur": 8.64
+ },
+ {
+  "clip": "10-pause",
+  "kind": "narr",
+  "start": 514.24,
+  "dur": 1.44
+ },
+ {
+  "clip": "J2-jo",
+  "kind": "radio",
+  "start": 517.08,
+  "dur": 2.56
+ },
+ {
+  "clip": "11-day40b",
+  "kind": "narr",
+  "start": 520.64,
+  "dur": 39.12
+ },
+ {
+  "clip": "12-outro",
+  "kind": "narr",
+  "start": 562.26,
+  "dur": 7.6
+ }
+]

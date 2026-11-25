@@ -1,0 +1,645 @@
+{
+ "fps": 30,
+ "total_frames": 17216,
+ "shots": [
+  {
+   "id": "s01",
+   "kind": "C",
+   "key": null,
+   "start": 0.0,
+   "end": 2.791,
+   "from": 0,
+   "dur": 84
+  },
+  {
+   "id": "s02",
+   "kind": "V",
+   "key": "c02_dashboard",
+   "start": 2.791,
+   "end": 14.435,
+   "from": 84,
+   "dur": 349
+  },
+  {
+   "id": "s03",
+   "kind": "A",
+   "key": "c03_mirror",
+   "start": 14.435,
+   "end": 18.297,
+   "from": 433,
+   "dur": 116
+  },
+  {
+   "id": "s04",
+   "kind": "A",
+   "key": "c04_medwing",
+   "start": 18.297,
+   "end": 30.782,
+   "from": 549,
+   "dur": 374
+  },
+  {
+   "id": "s05",
+   "kind": "A",
+   "key": "c05_doors",
+   "start": 30.782,
+   "end": 40.576,
+   "from": 923,
+   "dur": 294
+  },
+  {
+   "id": "s07",
+   "kind": "A",
+   "key": "c07_hilltop",
+   "start": 40.576,
+   "end": 46.66,
+   "from": 1217,
+   "dur": 183
+  },
+  {
+   "id": "s08",
+   "kind": "R",
+   "key": "VIDEO:test-runway-gate-5s",
+   "start": 46.66,
+   "end": 51.782,
+   "from": 1400,
+   "dur": 153
+  },
+  {
+   "id": "s09",
+   "kind": "A",
+   "key": "c09_gate",
+   "start": 51.782,
+   "end": 62.964,
+   "from": 1553,
+   "dur": 336
+  },
+  {
+   "id": "s11",
+   "kind": "C",
+   "key": "REAL:p1",
+   "start": 62.964,
+   "end": 79.518,
+   "from": 1889,
+   "dur": 497
+  },
+  {
+   "id": "s12",
+   "kind": "C",
+   "key": "REAL:p9",
+   "start": 79.518,
+   "end": 87.004,
+   "from": 2386,
+   "dur": 224
+  },
+  {
+   "id": "s13",
+   "kind": "C",
+   "key": "REAL:p12a",
+   "start": 87.004,
+   "end": 93.883,
+   "from": 2610,
+   "dur": 206
+  },
+  {
+   "id": "s14",
+   "kind": "A",
+   "key": "c14_window",
+   "start": 93.883,
+   "end": 95.804,
+   "from": 2816,
+   "dur": 58
+  },
+  {
+   "id": "s15",
+   "kind": "R",
+   "key": "test-frame1-gate-night",
+   "start": 95.804,
+   "end": 97.264,
+   "from": 2874,
+   "dur": 44
+  },
+  {
+   "id": "s16",
+   "kind": "A",
+   "key": "c16_fencehands",
+   "start": 97.264,
+   "end": 107.809,
+   "from": 2918,
+   "dur": 316
+  },
+  {
+   "id": "s17",
+   "kind": "A",
+   "key": "c17_horns",
+   "start": 107.809,
+   "end": 111.85,
+   "from": 3234,
+   "dur": 122
+  },
+  {
+   "id": "s18",
+   "kind": "C",
+   "key": "REAL:p25",
+   "start": 111.85,
+   "end": 120.469,
+   "from": 3356,
+   "dur": 258
+  },
+  {
+   "id": "s19",
+   "kind": "V",
+   "key": "c19_onramp",
+   "start": 120.469,
+   "end": 122.469,
+   "from": 3614,
+   "dur": 60
+  },
+  {
+   "id": "s20",
+   "kind": "A",
+   "key": "c20_edge",
+   "start": 122.469,
+   "end": 127.25,
+   "from": 3674,
+   "dur": 144
+  },
+  {
+   "id": "s21",
+   "kind": "A",
+   "key": "c21_elevator",
+   "start": 127.25,
+   "end": 138.493,
+   "from": 3818,
+   "dur": 337
+  },
+  {
+   "id": "s22",
+   "kind": "V",
+   "key": "c22_eli_cars",
+   "start": 138.493,
+   "end": 148.554,
+   "from": 4155,
+   "dur": 302
+  },
+  {
+   "id": "s23",
+   "kind": "A",
+   "key": "c23_eli_close",
+   "start": 148.554,
+   "end": 154.598,
+   "from": 4457,
+   "dur": 181
+  },
+  {
+   "id": "s24",
+   "kind": "A",
+   "key": "c24_hands",
+   "start": 154.598,
+   "end": 157.82,
+   "from": 4638,
+   "dur": 97
+  },
+  {
+   "id": "s25",
+   "kind": "A",
+   "key": "c25_two_walk",
+   "start": 157.82,
+   "end": 161.723,
+   "from": 4735,
+   "dur": 117
+  },
+  {
+   "id": "s26",
+   "kind": "A",
+   "key": "c26_ladder_weeds",
+   "start": 161.723,
+   "end": 167.006,
+   "from": 4852,
+   "dur": 158
+  },
+  {
+   "id": "s27",
+   "kind": "V",
+   "key": "c27_climb",
+   "start": 167.006,
+   "end": 177.5,
+   "from": 5010,
+   "dur": 315
+  },
+  {
+   "id": "s28",
+   "kind": "A",
+   "key": "c28_drop",
+   "start": 177.5,
+   "end": 186.563,
+   "from": 5325,
+   "dur": 272
+  },
+  {
+   "id": "s29",
+   "kind": "A",
+   "key": "c29_inventory",
+   "start": 186.563,
+   "end": 198.808,
+   "from": 5597,
+   "dur": 367
+  },
+  {
+   "id": "s30",
+   "kind": "A",
+   "key": "c30_dawn_base",
+   "start": 198.808,
+   "end": 203.91,
+   "from": 5964,
+   "dur": 153
+  },
+  {
+   "id": "s31",
+   "kind": "A",
+   "key": "c31_field",
+   "start": 203.91,
+   "end": 207.488,
+   "from": 6117,
+   "dur": 108
+  },
+  {
+   "id": "s32",
+   "kind": "A",
+   "key": "c32_bottle",
+   "start": 207.488,
+   "end": 216.335,
+   "from": 6225,
+   "dur": 265
+  },
+  {
+   "id": "s33",
+   "kind": "C",
+   "key": "REAL:p8a",
+   "start": 216.335,
+   "end": 222.259,
+   "from": 6490,
+   "dur": 178
+  },
+  {
+   "id": "s34",
+   "kind": "A",
+   "key": "c34_rain",
+   "start": 222.259,
+   "end": 224.521,
+   "from": 6668,
+   "dur": 68
+  },
+  {
+   "id": "s35",
+   "kind": "A",
+   "key": "c35_jacket",
+   "start": 224.521,
+   "end": 238.28,
+   "from": 6736,
+   "dur": 412
+  },
+  {
+   "id": "s36",
+   "kind": "A",
+   "key": "c36_farmhouse",
+   "start": 238.28,
+   "end": 246.285,
+   "from": 7148,
+   "dur": 241
+  },
+  {
+   "id": "s37",
+   "kind": "C",
+   "key": "REAL:p8b",
+   "start": 246.285,
+   "end": 255.11,
+   "from": 7389,
+   "dur": 264
+  },
+  {
+   "id": "s38",
+   "kind": "A",
+   "key": "c38_climbdown",
+   "start": 255.11,
+   "end": 260.273,
+   "from": 7653,
+   "dur": 155
+  },
+  {
+   "id": "s39",
+   "kind": "A",
+   "key": "c39_eli_guard",
+   "start": 260.273,
+   "end": 269.479,
+   "from": 7808,
+   "dur": 276
+  },
+  {
+   "id": "s40",
+   "kind": "A",
+   "key": "c40_haul",
+   "start": 269.479,
+   "end": 282.164,
+   "from": 8084,
+   "dur": 381
+  },
+  {
+   "id": "s41",
+   "kind": "R",
+   "key": "VIDEO:V6 from c-tower-corrected",
+   "start": 282.164,
+   "end": 293.008,
+   "from": 8465,
+   "dur": 325
+  },
+  {
+   "id": "s42",
+   "kind": "A",
+   "key": "c42_eli_ladder",
+   "start": 293.008,
+   "end": 298.793,
+   "from": 8790,
+   "dur": 174
+  },
+  {
+   "id": "s43",
+   "kind": "A",
+   "key": "c43_bleach",
+   "start": 298.793,
+   "end": 311.961,
+   "from": 8964,
+   "dur": 395
+  },
+  {
+   "id": "s44",
+   "kind": "V",
+   "key": "c44_pickup",
+   "start": 311.961,
+   "end": 321.911,
+   "from": 9359,
+   "dur": 298
+  },
+  {
+   "id": "s45",
+   "kind": "A",
+   "key": "c45_haul_up",
+   "start": 321.911,
+   "end": 330.513,
+   "from": 9657,
+   "dur": 258
+  },
+  {
+   "id": "s46",
+   "kind": "A",
+   "key": "c46_flashlight",
+   "start": 330.513,
+   "end": 340.376,
+   "from": 9915,
+   "dur": 296
+  },
+  {
+   "id": "s47",
+   "kind": "A",
+   "key": "c47_taillights",
+   "start": 340.376,
+   "end": 343.636,
+   "from": 10211,
+   "dur": 98
+  },
+  {
+   "id": "s48",
+   "kind": "A",
+   "key": "c48_signal",
+   "start": 343.636,
+   "end": 350.249,
+   "from": 10309,
+   "dur": 198
+  },
+  {
+   "id": "s49",
+   "kind": "A",
+   "key": "c49_window_flash",
+   "start": 350.249,
+   "end": 357.175,
+   "from": 10507,
+   "dur": 208
+  },
+  {
+   "id": "s50",
+   "kind": "A",
+   "key": "c50_eli_sleep",
+   "start": 357.175,
+   "end": 363.761,
+   "from": 10715,
+   "dur": 198
+  },
+  {
+   "id": "s51",
+   "kind": "A",
+   "key": "c51_empty",
+   "start": 363.761,
+   "end": 372.569,
+   "from": 10913,
+   "dur": 264
+  },
+  {
+   "id": "s52",
+   "kind": "C",
+   "key": "REAL:p26",
+   "start": 372.569,
+   "end": 378.257,
+   "from": 11177,
+   "dur": 171
+  },
+  {
+   "id": "s53",
+   "kind": "A",
+   "key": "c53_creek",
+   "start": 378.257,
+   "end": 381.538,
+   "from": 11348,
+   "dur": 98
+  },
+  {
+   "id": "s54",
+   "kind": "V",
+   "key": "c54_creek_slip",
+   "start": 381.538,
+   "end": 392.48,
+   "from": 11446,
+   "dur": 328
+  },
+  {
+   "id": "s55",
+   "kind": "A",
+   "key": "c55_run",
+   "start": 392.48,
+   "end": 399.502,
+   "from": 11774,
+   "dur": 211
+  },
+  {
+   "id": "s56",
+   "kind": "A",
+   "key": "c56_scratch",
+   "start": 399.502,
+   "end": 405.516,
+   "from": 11985,
+   "dur": 180
+  },
+  {
+   "id": "s57",
+   "kind": "A",
+   "key": "c57_filter",
+   "start": 405.516,
+   "end": 417.821,
+   "from": 12165,
+   "dur": 370
+  },
+  {
+   "id": "s58",
+   "kind": "C",
+   "key": "REAL:p15",
+   "start": 417.821,
+   "end": 424.924,
+   "from": 12535,
+   "dur": 213
+  },
+  {
+   "id": "s59",
+   "kind": "A",
+   "key": "c59_fever",
+   "start": 424.924,
+   "end": 427.885,
+   "from": 12748,
+   "dur": 89
+  },
+  {
+   "id": "s60",
+   "kind": "A",
+   "key": "c60_shoulder",
+   "start": 427.885,
+   "end": 437.673,
+   "from": 12837,
+   "dur": 293
+  },
+  {
+   "id": "s61",
+   "kind": "C",
+   "key": "REAL:p30a",
+   "start": 437.673,
+   "end": 443.756,
+   "from": 13130,
+   "dur": 183
+  },
+  {
+   "id": "s62",
+   "kind": "A",
+   "key": "c62_tally",
+   "start": 443.756,
+   "end": 451.58,
+   "from": 13313,
+   "dur": 234
+  },
+  {
+   "id": "s63",
+   "kind": "C",
+   "key": "REAL:p30b",
+   "start": 451.58,
+   "end": 460.104,
+   "from": 13547,
+   "dur": 256
+  },
+  {
+   "id": "s64",
+   "kind": "A",
+   "key": "c64_tower_night",
+   "start": 460.104,
+   "end": 466.667,
+   "from": 13803,
+   "dur": 197
+  },
+  {
+   "id": "s65",
+   "kind": "A",
+   "key": "c65_forehead",
+   "start": 466.667,
+   "end": 483.55,
+   "from": 14000,
+   "dur": 506
+  },
+  {
+   "id": "s66",
+   "kind": "C",
+   "key": "REAL:p12b",
+   "start": 483.55,
+   "end": 496.231,
+   "from": 14506,
+   "dur": 381
+  },
+  {
+   "id": "s67",
+   "kind": "A",
+   "key": "c67_radio",
+   "start": 496.231,
+   "end": 520.587,
+   "from": 14887,
+   "dur": 731
+  },
+  {
+   "id": "s69",
+   "kind": "V",
+   "key": "c69_eli_whisper",
+   "start": 520.587,
+   "end": 530.373,
+   "from": 15618,
+   "dur": 293
+  },
+  {
+   "id": "s70",
+   "kind": "A",
+   "key": "c70_thumb",
+   "start": 530.373,
+   "end": 547.37,
+   "from": 15911,
+   "dur": 510
+  },
+  {
+   "id": "s71",
+   "kind": "V",
+   "key": "c71_ladder_foot",
+   "start": 547.37,
+   "end": 558.094,
+   "from": 16421,
+   "dur": 322
+  },
+  {
+   "id": "s72",
+   "kind": "C",
+   "key": null,
+   "start": 558.094,
+   "end": 562.155,
+   "from": 16743,
+   "dur": 122
+  },
+  {
+   "id": "s73",
+   "kind": "R",
+   "key": "c64_tower_night",
+   "start": 562.155,
+   "end": 570.668,
+   "from": 16865,
+   "dur": 255
+  },
+  {
+   "id": "s74",
+   "kind": "C",
+   "key": null,
+   "start": 570.668,
+   "end": 573.86,
+   "from": 17120,
+   "dur": 96
+  }
+ ]
+}
