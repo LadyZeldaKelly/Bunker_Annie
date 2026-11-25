@@ -16,3 +16,4 @@ episodes/*/voiceover.wav
 # Separate project (its own GitHub repository)
 the-still-case/
 true_oracle/
+__pycache__/
