@@ -52,7 +52,16 @@
 - Best results: a NEW bright, close-up thumbnail image (big scared character, clear threat, leave a corner empty for text). Reused dark episode shots need brightness ~1.5 and still read weaker.
 - Keep text off faces; use hookAtBottom when the top-left is busy.
 
+## PERMANENT visual identity — Don't Go There! standalone survival stories (set by the user 25 Nov 2026)
+- Cinematic illustrated survival horror: realistic human proportions, detailed painterly environments, atmospheric lighting, serious post-apocalyptic film aesthetic.
+- Restrained colours, dramatic shadows, environmental storytelling, subtle cinematic camera movement (slow push-ins/drifts, hard cuts).
+- NEVER: stick figures, simplified vector cartoons, comic-strip panels, or VibeStick's recognizable style. (Bunker Annie keeps its own 2D cartoon style as the flagship series; never mix the two.)
+- Consistent character designs in every shot (character sheets + reference images). Eli's red hoodie is his permanent identifier.
+- Image prompt prefix: "Wide 16:9 cinematic illustrated survival-horror film still, detailed painterly environment with realistic human proportions, serious post-apocalyptic film aesthetic, restrained desaturated colours, dramatic shadows." End: "Not cartoon, no outlines, no stick figures, no comic panels. No text, no letters, no logos, no watermark."
+- ELI (lock): ~10, thin, dark brown curly hair, light brown skin, faint freckles, brown eyes; faded muted brick-RED pullover hoodie (white uneven drawstrings, hood down, dirt smudge on one sleeve), dark blue worn jeans, grey-and-white muddy sneakers, oversized dark green one-strap backpack.
+- "YOU" (lock): never face-on; dark green canvas jacket, grey knit beanie, jeans, wristwatch.
+
 ## CONPLAN 8888 episode (Don't Go There! cinematic format — NOT Bunker Annie style)
 - Bunker Annie stays the flagship cartoon series. This is a separate cinematic survival-horror format on the same channel: realistic painterly stills, practical light only, "you" never shown face-on, Eli = red hoodie (only saturated red). See episodes/conplan-8888/visual-treatment.md.
 - Real vs fiction: only real CONPLAN 8888-11 text may appear in code-built "REAL FILE" inserts (page-stamped); everything else is fiction (fictional "Calder Air Station"). Facts: episodes/conplan-8888/fact-check-40-days.md, full text research/conplan-8888-11-text.md.
-- Status 25 Nov 2026: research approved; Concept 1 approved for development; script Draft 1 + visual treatment AWAITING APPROVAL. No credits spent. Do NOT generate voice/images or render until the user approves script + visual direction, then a ~1,000-credit test round. Estimate ~26,000 credits total.
+- Status 25 Nov 2026: research approved; Concept 1 approved for development; script Draft 1 + visual treatment sent. User approved the visual test only: Eli sheet + 2 style frames (570 credits, flow EbzCqs78peGNRUhsSm6g). Full production NOT approved yet. Do NOT generate voice/images or render until the user approves script + visual direction, then a ~1,000-credit test round. Estimate ~26,000 credits total.
