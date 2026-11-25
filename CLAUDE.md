@@ -51,3 +51,8 @@
 - Template: src/story/Thumbnail.tsx (Anton font, white label + red number, coloured hook line, dark fade behind text). One <Still> per option in Root.tsx (Folder "Thumbnails"); render with `npx remotion still <id> out/thumbnails/<name>.png`.
 - Best results: a NEW bright, close-up thumbnail image (big scared character, clear threat, leave a corner empty for text). Reused dark episode shots need brightness ~1.5 and still read weaker.
 - Keep text off faces; use hookAtBottom when the top-left is busy.
+
+## CONPLAN 8888 episode (Don't Go There! cinematic format — NOT Bunker Annie style)
+- Bunker Annie stays the flagship cartoon series. This is a separate cinematic survival-horror format on the same channel: realistic painterly stills, practical light only, "you" never shown face-on, Eli = red hoodie (only saturated red). See episodes/conplan-8888/visual-treatment.md.
+- Real vs fiction: only real CONPLAN 8888-11 text may appear in code-built "REAL FILE" inserts (page-stamped); everything else is fiction (fictional "Calder Air Station"). Facts: episodes/conplan-8888/fact-check-40-days.md, full text research/conplan-8888-11-text.md.
+- Status 25 Nov 2026: research approved; Concept 1 approved for development; script Draft 1 + visual treatment AWAITING APPROVAL. No credits spent. Do NOT generate voice/images or render until the user approves script + visual direction, then a ~1,000-credit test round. Estimate ~26,000 credits total.
