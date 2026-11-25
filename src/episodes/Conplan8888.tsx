@@ -17,6 +17,7 @@ type Fx =
   | "flicker" | "redPulse" | "window3" | "signal" | "flashBeam" | "radio" | "taillightsAway" | "dim" | "dust";
 
 type Shot = {
+  img2?: string; zoom2?: [number, number]; focus2?: [number, number]; split?: number;
   img?: string; video?: string; clipSec?: number; after?: string;
   zoom?: [number, number]; focus?: [number, number]; drift?: [number, number];
   fx?: Fx[]; real?: { page: string; text: string; hl?: string }; day?: string; dayAt?: number;
@@ -82,7 +83,8 @@ const S: Record<string, Shot> = {
   s57: { img: "c57_filter", fx: ["night"] },
   s58: { real: { page: "15", text: "The human instinct for self preservation can cause newly infected zombie hosts to deny their imminent zombification…", hl: "deny their imminent zombification" } },
   s59: { img: "c59_fever", fx: ["dust"], day: "DAY 27" },
-  s60: { img: "c60_shoulder", fx: ["night", "baseGlow"] },
+  // c60_shoulder dropped (anatomy error: body faces away, face toward camera). Two clean angles instead.
+  s60: { img: "c59_fever", zoom: [1.18, 1.24], focus: [0.42, 0.3], img2: "c50_eli_sleep", zoom2: [1.3, 1.36], focus2: [0.62, 0.45], split: 0.4, fx: ["night"] },
   s61: { real: { page: "30", text: "…zombie outbreaks in human hosts cannot possibly last longer than 40 days…", hl: "cannot possibly last longer than 40 days" } },
   s62: { img: "c62_tally", zoom: [1.0, 1.1], fx: ["rainLight"], day: "DAY 31" },
   s63: { real: { page: "30", text: "All IHHs who fall behind must be left behind.", hl: "must be left behind" } },
@@ -166,7 +168,12 @@ const ShotView: React.FC<{ id: string; dur: number }> = ({ id, dur }) => {
     const [fx0, fy0] = s.focus ?? [0.5, 0.5];
     const long = dur > 13 * fps;
     const cut = Math.round(dur * 0.55);
-    body = long ? (
+    body = s.img2 ? (
+      <>
+        <Sequence durationInFrames={Math.round(dur * (s.split ?? 0.5))}><CinematicStill src={IMG(s.img!)} zoomFrom={z0} zoomTo={z1} focusX={fx0} focusY={fy0} />{fx}</Sequence>
+        <Sequence from={Math.round(dur * (s.split ?? 0.5))}><CinematicStill src={IMG(s.img2)} zoomFrom={(s.zoom2 ?? [1.1, 1.16])[0]} zoomTo={(s.zoom2 ?? [1.1, 1.16])[1]} focusX={(s.focus2 ?? [0.5, 0.5])[0]} focusY={(s.focus2 ?? [0.5, 0.5])[1]} />{fx}</Sequence>
+      </>
+    ) : long ? (
       <>
         <Sequence durationInFrames={cut}><CinematicStill src={IMG(s.img!)} zoomFrom={z0} zoomTo={z1} focusX={fx0} focusY={fy0} />{fx}</Sequence>
         <Sequence from={cut} durationInFrames={dur - cut}><CinematicStill src={IMG(s.img!)} zoomFrom={1.22} zoomTo={1.28} focusX={fx0} focusY={fy0} driftX={-0.6} />{fx}</Sequence>
