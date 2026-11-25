@@ -2,7 +2,7 @@
 **Don't Go There! · for review with the script · nothing generated yet**
 
 ## 1. The look in one line
-Cinematic survival horror: realistic, painterly film stills of the American plains at night, lit only by what's in the scene (floodlights, a phone, a flashlight, the sun). Slow, heavy and quiet, where the camera feels like it's holding its breath.
+Cinematic survival horror (OPTION A, approved): photorealistic cinematic film stills of the American plains, lit only by what's in the scene (floodlights, a phone, a flashlight, the sun). Slow, heavy and quiet, where the camera feels like it's holding its breath.
 
 **How it stays distinct:**
 - **From VibeStick:** no 2D animation, no diagrams-as-story, no explainer graphics during the story.
