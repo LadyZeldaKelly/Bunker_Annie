@@ -32,3 +32,9 @@ S24-boom GKVd7d3ar6uIGgM68ZvQ 4GjoiFkXhd0e9Vwk3p1E 50
 S25-ladder-climb-steps I4wpKkhrQmwnDV8hobb8 sObMvG98pLuRAN5rALQ2 50
 M1-tension-bed-120s EHhERpz7jTpNjKtOynMV CruZ2VKUw1rTMBxFZ32u 3182
 M2-climax-30s OlX51dp6BKAtgLgZUqe2 uy9cBsiOtIdP7oZQ81g3 795
+# re-makes with set durations (approved: paid by cheaper thumbnail)
+S10-pickup-approach-6s AuQgh49eu1kMbnpoyKrm Bbhqj0YBmZIZ21z1hD7Z 60
+S12-pickup-away-5s pQuvuYTiXD12rE2l6mED BAJA8V6pnidFfyO6Wrrl 50
+S07-run-wheat-4s GZu9R3sJp7GIyDcgJ8rz bizYjgkRGWyYN2TfMYxx 40
+S25-ladder-climb-4s I4wpKkhrQmwnDV8hobb8 o5PMVXezJi5aLncVmDzI 40
+S24-boom-4s GKVd7d3ar6uIGgM68ZvQ V7vhVEB4rQ5iA3l02Xlz 40
