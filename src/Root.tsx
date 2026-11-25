@@ -4,6 +4,7 @@ import { StoryVideo } from "./StoryVideo";
 import { AnnieTeaser } from "./AnnieTeaser";
 import { Night2 } from "./episodes/Night2";
 import { AtmosDemo } from "./dgt/AtmosDemo";
+import { Conplan8888, CONPLAN_FRAMES } from "./episodes/Conplan8888";
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -92,6 +93,7 @@ export const RemotionRoot: React.FC = () => {
       />
       <Folder name="DGT-Cinematic">
         <Composition id="DGT-AtmosDemo" component={AtmosDemo} durationInFrames={390} fps={30} width={1920} height={1080} />
+        <Composition id="DGT-Conplan8888" component={Conplan8888} durationInFrames={CONPLAN_FRAMES} fps={30} width={1920} height={1080} />
       </Folder>
     </>
   );
