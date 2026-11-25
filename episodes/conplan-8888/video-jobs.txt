@@ -8,3 +8,4 @@ V8 c54_creek_slip mLSG1Ctc8m4fXUcDrSPz C04m830phPBfhs2UYaMa 1515
 V9 c69_eli_whisper 5YAPTgpk7NTkc2ivzsVK dUqzGzw2PnU7i1HC36en 1515
 V10 c71_ladder_foot FOBnVB99UmdvpiMpyiWG gbJvttuDd8qeGScbyTlh 1515
 V7 c44_pickup Bcgs2jstBDTUT6XgcnIH KkdO2hkfZ9hYgUJ4alIQ 3030 (10s)
+V8-redo c54_creek_slip aYsSzjpfRqmCsaOpj0KB CeOUkOTu0LjGVRrsHe9Y 1515 (approved re-do)
