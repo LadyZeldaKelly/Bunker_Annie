@@ -61,3 +61,4 @@ c64_tower_night 7DfnUw4y2xbUJSBpEQQr 9rnlfSrLoiMNHMQpMGgz 190
 c67_radio e03p09xnqxYFNY85D9zB iCHwktub10WgDefKkbTG 190
 c70_thumb SMwc4H0LHPmCp4NyzuKI mLcPessUQibCWv08xlPA 190
 THUMB thumbnail rCHUYFIR68p6OkZLjRuk JkzYcbAL6JCyELfSbcjz 190 (no ref, approved)
+THUMB-retry jTSixwVvlYxpKLRsZtFI qtWHFoFXHnCYj1cBwugu 190 (first try blocked, not charged)

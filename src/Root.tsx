@@ -11,6 +11,24 @@ export const RemotionRoot: React.FC = () => {
     <>
       <Folder name="Thumbnails">
         <Still
+          id="DGT-Conplan8888-Thumb"
+          component={Thumbnail}
+          width={1280}
+          height={720}
+          defaultProps={{
+            image: "conplan-8888/img/thumb-art.png",
+            zoom: 1.0,
+            brightness: 1.15,
+            focusX: 0.6,
+            focusY: 0.5,
+            label: "Day",
+            number: "40",
+            hook: "They locked the gates.",
+            hookColor: "#F5A623",
+            textSide: "left",
+          }}
+        />
+        <Still
           id="Night2-Thumb-A"
           component={Thumbnail}
           width={1280}
