@@ -1,0 +1,10 @@
+# clip start-still node session credits
+V2 c02_dashboard JKl9QfmngxI1DdmBu7Gk 8707OuDXJfHqiqdOvOQg 1515
+V3 c19_onramp ctcWoixevEjhv2kk4XLg HFsmKzPNLdHp95H0OwpZ 1515
+V4 c22_eli_cars DI347mfkU6Hm55Dxvi39 brzTtfKTSIBIKQUs1pXs 1515
+V5 c27_climb 2VCCEA1J4mV3KD0FxLmv fAqiXAWd5CuyP4OY8Mns 1515
+V6 c-tower-corrected 7A1KNjaFYXx6Wo1hpgZm vv3q8axh5hOATHB5RNcH 1515
+V8 c54_creek_slip mLSG1Ctc8m4fXUcDrSPz C04m830phPBfhs2UYaMa 1515
+V9 c69_eli_whisper 5YAPTgpk7NTkc2ivzsVK dUqzGzw2PnU7i1HC36en 1515
+V10 c71_ladder_foot FOBnVB99UmdvpiMpyiWG gbJvttuDd8qeGScbyTlh 1515
+V7 c44_pickup Bcgs2jstBDTUT6XgcnIH KkdO2hkfZ9hYgUJ4alIQ 3030 (10s)
